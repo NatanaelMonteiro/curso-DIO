@@ -1,0 +1,27 @@
+body {
+	background-color: #a99
+}
+
+#title, .subtitle, .post_title, .post, .post_content {
+}
+
+.post_title {
+	font-size: 17px;
+	font-style: italic;
+	text-decoration-color: #a09
+	margin: 0;
+	margin-bottom: 15px;
+}
+
+.post {
+	background-color: #aba
+	padding: 15px;
+	border: 2px solid #000
+	margin-bottom 10px;
+}
+
+.post_content {
+	margin: 0;
+	margin-bottom: 15px;
+
+}
